@@ -13,7 +13,7 @@ const skills = {
   frontend: ["HTML5", "CSS", "Bootstrap", "JavaScript", "React.js"],
   backend: ["NodeJs", "NestJs", "PHP", "TypeORM", "API Rest"],
   fullStack: ["ServiceNow"],
-  database: ["NodeJs", "NestJs", "PHP", "TypeORM", "API Rest"],
+  database: ["MySQL", "SQL Server"],
   otherTools: ["Postman", "Git"],
    experience: {
     current: "ServiceNow Developer", "Tutor Full Stack",
