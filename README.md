@@ -10,7 +10,7 @@
 
 ```javascript
 const skills = {
-  frontend: ["HTML5", "CSS", "Bootstrap", "JavaScript", "React.js"],
+  frontend: ["HTML5", "CSS", "Bootstrap", "JavaScript", "React.js", "Angular.js"],
   backend: ["NodeJs", "NestJs", "PHP", "TypeORM", "API Rest"],
   fullStack: ["ServiceNow"],
   database: ["MySQL", "SQL Server"],
