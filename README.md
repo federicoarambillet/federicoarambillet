@@ -30,7 +30,7 @@ const skills = {
 <br><br>
 
 <div align="center">
-<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1709307740/profile/xthliauvyj2zur05gt8b.png" width="70%"></br></br>
+<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1710688286/profile/Federico_Arambillet_-_English_zrowa7.png" width="70%"></br></br>
 </div>
 
 #### © 2024. All rights reserved.
