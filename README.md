@@ -17,7 +17,7 @@ const skills = {
   otherTools: ["Postman", "Git"],
    experience: {
     current: "Software Engineering", "Tutor Full Stack",
-    previous: "Developer Jr", "ServiceNow Developer",
+    previous: "ServiceNow Developer", "Software Developer" 
   }
 }
 ```
