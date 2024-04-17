@@ -1,6 +1,6 @@
 <h2>Hi, I'm Federico Arambillet!⚡</h2>
 <img align='right' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1707095956/profile/aw71jbgerr2o7x7pyfkg.png" width="100px">
-<p><em><b>ServiceNow Developer</b> at Globant</br><b>Tutor Full Stack web developer career</b> at CEPIT</em></p>
+<p><em><b>Software Engineering</b> at Accenture</br><b>Tutor Full Stack web developer career</b> at CEPIT</em></p>
 
 [![Linkedin: federicoarambillet](https://img.shields.io/badge/-federicoarambillet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-arambillet/)](https://www.linkedin.com/in/federico-arambillet/)
 [![GitHub federicoarambillet](https://img.shields.io/github/followers/federicoarambillet?label=follow&style=social)](https://github.com/federicoarambillet)
@@ -16,8 +16,8 @@ const skills = {
   database: ["MySQL", "SQL Server"],
   otherTools: ["Postman", "Git"],
    experience: {
-    current: "ServiceNow Developer", "Tutor Full Stack",
-    previous: "Developer Jr",
+    current: "Software Engineering", "Tutor Full Stack",
+    previous: "Developer Jr", "ServiceNow Developer",
   }
 }
 ```
@@ -30,7 +30,7 @@ const skills = {
 <br><br>
 
 <div align="center">
-<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1710688286/profile/Federico_Arambillet_-_English_zrowa7.png" width="70%"></br></br>
+<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1713393697/profile/Federico_Arambillet_-_English_wqhjyp.png" width="70%"></br></br>
 </div>
 
 #### © 2024. All rights reserved.
