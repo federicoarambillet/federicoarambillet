@@ -10,7 +10,7 @@
 
 ```javascript
 const skills = {
-  frontend: ["HTML5", "CSS", "Bootstrap", "JavaScript", "React.js", "Angular.js"],
+  frontend: ["HTML5", "CSS", "Bootstrap", "JavaScript", "React.js", "Angular"],
   backend: ["NodeJs", "NestJs", "PHP", "TypeORM", "API Rest"],
   fullStack: ["ServiceNow"],
   database: ["MySQL", "SQL Server"],
@@ -30,7 +30,7 @@ const skills = {
 <br><br>
 
 <div align="center">
-<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1713393697/profile/Federico_Arambillet_-_English_wqhjyp.png" width="70%"></br></br>
+<img align='' src="https://res.cloudinary.com/dpqkhmplb/image/upload/v1713715114/profile/Federico_Arambillet_-_English_swyt8j.png" width="70%"></br></br>
 </div>
 
 #### © 2024. All rights reserved.
